@@ -1,0 +1,2 @@
+# rails-simple
+Contains assignment
